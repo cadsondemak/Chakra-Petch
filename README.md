@@ -1,1 +1,3 @@
-# chakra-petch
+# Chakra Petch
+Chakra Petch
+Chakra Petch is a Thai loop typeface designed using ninety straight line and forty five degree method to avoid the curves. This also gives a touch of computeristic to the overall design. Theerawat Pojvibulsiri the designer of this font managed to fit the traditional loop into the design and make it workable as a funky text face. It is flexible enough to be used as a display typeface at the same time. Simple deign of Chakra Petch is an ideal for printed media and easy to be shown as crisp and clear on the screen. Odd enough it could be perceived as a modern text face and old fashion headline at the same time.
