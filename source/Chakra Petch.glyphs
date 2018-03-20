@@ -1,5 +1,8 @@
 {
 .appVersion = "983";
+DisplayStrings = (
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\012/koKai-thai/thoThung-thai/phoSamphao-thai/ru-thai/lu-thai/doChada-thai/toPatak-thai/yoYing-thai/khoKhai-thai/khoKhuat-thai/choChang-thai/soSo-thai/khoKhwai-thai/khoKhon-thai/soSala-thai/doDek-thai/toTao-thai/thoThahan-thai/thoNangmontho-thai \012/noNu-thai/moMa-thai/choChoe-thai/noNen-thai/thoPhuthao-thai/khoRakhang-thai/thoThong-thai/roRua-thai/choChan-thai/woWaen-thai/ngoNgu-thai/thoThan-thai/choChing-thai/loLing-thai/soSua-thai/boBaimai-thai/poPla-thai/soRusi-thai/yoYak-thai \012/phoPhung-thai/foFa-thai/foFan-thai/phoPhan-thai/hoHip-thai/loChula-thai/oAng-thai/hoNokhuk-thai"
+);
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
@@ -2120,7 +2123,7 @@ unicode = 0050;
 {
 color = 4;
 glyphname = Q;
-lastChange = "2018-03-15 13:42:34 +0000";
+lastChange = "2018-03-20 04:04:11 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -2739,7 +2742,7 @@ unicode = 0055;
 {
 color = 4;
 glyphname = V;
-lastChange = "2018-03-15 13:42:34 +0000";
+lastChange = "2018-03-20 04:07:59 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -2812,10 +2815,10 @@ closed = 1;
 nodes = (
 "359 0 LINE",
 "606 700 LINE",
-"528 700 LINE",
-"319 90 LINE",
-"317 90 LINE",
-"108 700 LINE",
+"527 700 LINE",
+"319 91 LINE",
+"317 91 LINE",
+"109 700 LINE",
 "30 700 LINE",
 "277 0 LINE"
 );
@@ -2831,7 +2834,7 @@ unicode = 0056;
 {
 color = 4;
 glyphname = W;
-lastChange = "2018-03-15 13:42:34 +0000";
+lastChange = "2018-03-20 04:08:17 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -2903,30 +2906,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"625 90 LINE",
-"623 90 LINE",
-"456 640 LINE",
-"386 640 LINE",
-"219 90 LINE",
-"217 90 LINE",
-"99 700 LINE",
-"25 700 LINE",
-"167 0 LINE",
-"259 0 LINE",
-"421 532 LINE",
-"583 0 LINE",
-"675 0 LINE",
-"817 700 LINE",
-"743 700 LINE"
-);
-}
-);
-};
-layerId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
-paths = (
-{
-closed = 1;
-nodes = (
 "626 90 LINE",
 "624 90 LINE",
 "456 640 LINE",
@@ -2946,6 +2925,31 @@ nodes = (
 );
 }
 );
+};
+layerId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
+paths = (
+{
+closed = 1;
+nodes = (
+"626 96 LINE",
+"624 96 LINE",
+"456 640 LINE",
+"388 640 LINE",
+"221 106 LINE",
+"219 106 LINE",
+"107 700 LINE",
+"30 700 LINE",
+"171 0 LINE",
+"253 0 LINE",
+"421 537 LINE",
+"423 537 LINE",
+"590 0 LINE",
+"672 0 LINE",
+"813 700 LINE",
+"736 700 LINE"
+);
+}
+);
 width = 843;
 }
 );
@@ -2956,7 +2960,7 @@ unicode = 0057;
 {
 color = 4;
 glyphname = X;
-lastChange = "2018-03-15 13:42:34 +0000";
+lastChange = "2018-03-20 04:09:25 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -3052,13 +3056,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"364 359 LINE",
+"365 358 LINE",
 "587 700 LINE",
 "503 700 LINE",
 "322 421 LINE",
 "141 700 LINE",
 "57 700 LINE",
-"280 359 LINE",
+"278 360 LINE",
 "45 0 LINE",
 "129 0 LINE",
 "322 297 LINE",
@@ -3077,7 +3081,7 @@ unicode = 0058;
 {
 color = 4;
 glyphname = Y;
-lastChange = "2018-03-15 13:42:34 +0000";
+lastChange = "2018-03-20 04:00:52 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -3154,10 +3158,10 @@ nodes = (
 "348 0 LINE",
 "348 292 LINE",
 "590 700 LINE",
-"510 700 LINE",
-"311 357 LINE",
-"309 357 LINE",
-"110 700 LINE",
+"508 700 LINE",
+"311 361 LINE",
+"309 361 LINE",
+"112 700 LINE",
 "30 700 LINE",
 "272 292 LINE",
 "272 0 LINE"
@@ -43073,7 +43077,7 @@ note = "lu-thai.short";
 {
 color = 4;
 glyphname = "doChada-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 04:11:53 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -43322,13 +43326,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"169 -192 LINE",
-"169 -159 LINE",
-"195 -133 LINE",
-"347 -133 LINE",
+"170 -191 LINE",
+"170 -160 LINE",
+"196 -134 LINE",
+"347 -134 LINE",
 "388 -177 LINE",
-"353 -218 LINE",
-"195 -218 LINE"
+"353 -217 LINE",
+"196 -217 LINE"
 );
 },
 {
@@ -45298,7 +45302,7 @@ note = "yoYing-thai.less";
 {
 color = 4;
 glyphname = "khoKhai-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 03:25:56 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -45480,10 +45484,10 @@ nodes = (
 "494 78 LINE",
 "494 558 LINE",
 "420 558 LINE",
-"420 104 LINE",
-"384 68 LINE",
-"343 68 LINE",
-"307 104 LINE",
+"420 102 LINE",
+"384 66 LINE",
+"343 66 LINE",
+"307 102 LINE",
 "307 280 LINE",
 "354 398 LINE",
 "354 490 LINE",
@@ -45515,7 +45519,7 @@ unicode = 0E02;
 {
 color = 4;
 glyphname = "khoKhuat-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 03:25:59 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -45720,10 +45724,10 @@ closed = 1;
 nodes = (
 "509 558 LINE",
 "435 558 LINE",
-"435 104 LINE",
-"399 68 LINE",
-"358 68 LINE",
-"322 104 LINE",
+"435 102 LINE",
+"399 66 LINE",
+"358 66 LINE",
+"322 102 LINE",
 "322 289 LINE",
 "386 401 LINE",
 "386 505 LINE",
@@ -45764,7 +45768,7 @@ unicode = 0E03;
 {
 color = 4;
 glyphname = "choChang-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 03:26:02 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -45950,10 +45954,10 @@ nodes = (
 "400 503 LINE",
 "400 469 LINE",
 "430 428 LINE",
-"430 104 LINE",
-"394 68 LINE",
-"343 68 LINE",
-"307 104 LINE",
+"430 102 LINE",
+"394 66 LINE",
+"343 66 LINE",
+"307 102 LINE",
 "307 280 LINE",
 "354 398 LINE",
 "354 490 LINE",
@@ -45999,7 +46003,7 @@ unicode = 0E0A;
 {
 color = 4;
 glyphname = "soSo-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 03:26:05 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -46223,10 +46227,10 @@ nodes = (
 "415 503 LINE",
 "415 469 LINE",
 "445 428 LINE",
-"445 104 LINE",
-"409 68 LINE",
-"358 68 LINE",
-"322 104 LINE",
+"445 102 LINE",
+"409 66 LINE",
+"358 66 LINE",
+"322 102 LINE",
 "322 289 LINE",
 "386 401 LINE",
 "386 505 LINE",
@@ -53969,7 +53973,7 @@ unicode = 0E2B;
 {
 color = 4;
 glyphname = "loChula-thai";
-lastChange = "2018-03-15 13:42:40 +0000";
+lastChange = "2018-03-20 04:11:15 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -54193,10 +54197,10 @@ nodes = (
 "535 650 LINE",
 "457 650 LINE",
 "401 594 LINE",
-"401 524 LINE",
-"457 468 LINE",
-"526 468 LINE",
-"521 418 LINE",
+"401 522 LINE",
+"457 466 LINE",
+"526 466 LINE",
+"521 416 LINE",
 "521 125 LINE",
 "392 388 LINE",
 "350 388 LINE",
@@ -54229,14 +54233,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"453 541 LINE",
+"453 539 LINE",
 "453 577 LINE",
 "478 602 LINE",
 "514 602 LINE",
 "539 577 LINE",
-"539 541 LINE",
-"514 516 LINE",
-"478 516 LINE"
+"539 539 LINE",
+"514 514 LINE",
+"478 514 LINE"
 );
 }
 );
