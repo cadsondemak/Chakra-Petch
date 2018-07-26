@@ -1,6 +1,6 @@
 {
 .appVersion = "1141";
-copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
+copyright = "Copyright (c) 2018, Cadson Demak (info@cadsondemak.com)";
 customParameters = (
 {
 name = vendorID;
@@ -37,7 +37,7 @@ Tag = ital;
 );
 }
 );
-date = "2018-07-23 11:25:46 +0000";
+date = "2018-07-25 17:16:05 +0000";
 designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = www.katatrad.com;
 familyName = "Chakra Petch";
