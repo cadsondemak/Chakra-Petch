@@ -1,13 +1,4 @@
 @font-face {
-    font-family: 'ChakraPetchThinItalic';
-    src: url('./fonts/ChakraPetch-ThinItalic.eot');
-    src: url('./fonts/ChakraPetch-ThinItalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ThinItalic.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ThinItalic.woff') format('woff'),
-         url('./fonts/ChakraPetch-ThinItalic.ttf') format('truetype');
-}
-
-@font-face {
     font-family: 'ChakraPetchExtraLightItalic';
     src: url('./fonts/ChakraPetch-ExtraLightItalic.eot');
     src: url('./fonts/ChakraPetch-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
@@ -62,33 +53,6 @@
 }
 
 @font-face {
-    font-family: 'ChakraPetchExtraBoldItalic';
-    src: url('./fonts/ChakraPetch-ExtraBoldItalic.eot');
-    src: url('./fonts/ChakraPetch-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraBoldItalic.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraBoldItalic.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraBoldItalic.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBlackItalic';
-    src: url('./fonts/ChakraPetch-BlackItalic.eot');
-    src: url('./fonts/ChakraPetch-BlackItalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-BlackItalic.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-BlackItalic.woff') format('woff'),
-         url('./fonts/ChakraPetch-BlackItalic.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchThin';
-    src: url('./fonts/ChakraPetch-Thin.eot');
-    src: url('./fonts/ChakraPetch-Thin.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Thin.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Thin.woff') format('woff'),
-         url('./fonts/ChakraPetch-Thin.ttf') format('truetype');
-}
-
-@font-face {
     font-family: 'ChakraPetchExtraLight';
     src: url('./fonts/ChakraPetch-ExtraLight.eot');
     src: url('./fonts/ChakraPetch-ExtraLight.eot?#iefix') format('embedded-opentype'),
@@ -140,186 +104,6 @@
          url('./fonts/ChakraPetch-Bold.woff2') format('woff2'),
          url('./fonts/ChakraPetch-Bold.woff') format('woff'),
          url('./fonts/ChakraPetch-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchExtraBold';
-    src: url('./fonts/ChakraPetch-ExtraBold.eot');
-    src: url('./fonts/ChakraPetch-ExtraBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraBold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraBold.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraBold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBlack';
-    src: url('./fonts/ChakraPetch-Black.eot');
-    src: url('./fonts/ChakraPetch-Black.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Black.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Black.woff') format('woff'),
-         url('./fonts/ChakraPetch-Black.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchThin';
-    src: url('./fonts/ChakraPetch-Thin.eot');
-    src: url('./fonts/ChakraPetch-Thin.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Thin.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Thin.woff') format('woff'),
-         url('./fonts/ChakraPetch-Thin.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchExtraLight';
-    src: url('./fonts/ChakraPetch-ExtraLight.eot');
-    src: url('./fonts/ChakraPetch-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraLight.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraLight.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraLight.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchLight';
-    src: url('./fonts/ChakraPetch-Light.eot');
-    src: url('./fonts/ChakraPetch-Light.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Light.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Light.woff') format('woff'),
-         url('./fonts/ChakraPetch-Light.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchRegular';
-    src: url('./fonts/ChakraPetch-Regular.eot');
-    src: url('./fonts/ChakraPetch-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Regular.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Regular.woff') format('woff'),
-         url('./fonts/ChakraPetch-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchMedium';
-    src: url('./fonts/ChakraPetch-Medium.eot');
-    src: url('./fonts/ChakraPetch-Medium.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Medium.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Medium.woff') format('woff'),
-         url('./fonts/ChakraPetch-Medium.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchSemiBold';
-    src: url('./fonts/ChakraPetch-SemiBold.eot');
-    src: url('./fonts/ChakraPetch-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-SemiBold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-SemiBold.woff') format('woff'),
-         url('./fonts/ChakraPetch-SemiBold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBold';
-    src: url('./fonts/ChakraPetch-Bold.eot');
-    src: url('./fonts/ChakraPetch-Bold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Bold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Bold.woff') format('woff'),
-         url('./fonts/ChakraPetch-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchExtraBold';
-    src: url('./fonts/ChakraPetch-ExtraBold.eot');
-    src: url('./fonts/ChakraPetch-ExtraBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraBold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraBold.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraBold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBlack';
-    src: url('./fonts/ChakraPetch-Black.eot');
-    src: url('./fonts/ChakraPetch-Black.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Black.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Black.woff') format('woff'),
-         url('./fonts/ChakraPetch-Black.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchThin';
-    src: url('./fonts/ChakraPetch-Thin.eot');
-    src: url('./fonts/ChakraPetch-Thin.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Thin.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Thin.woff') format('woff'),
-         url('./fonts/ChakraPetch-Thin.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchExtraLight';
-    src: url('./fonts/ChakraPetch-ExtraLight.eot');
-    src: url('./fonts/ChakraPetch-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraLight.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraLight.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraLight.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchLight';
-    src: url('./fonts/ChakraPetch-Light.eot');
-    src: url('./fonts/ChakraPetch-Light.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Light.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Light.woff') format('woff'),
-         url('./fonts/ChakraPetch-Light.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchRegular';
-    src: url('./fonts/ChakraPetch-Regular.eot');
-    src: url('./fonts/ChakraPetch-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Regular.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Regular.woff') format('woff'),
-         url('./fonts/ChakraPetch-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchMedium';
-    src: url('./fonts/ChakraPetch-Medium.eot');
-    src: url('./fonts/ChakraPetch-Medium.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Medium.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Medium.woff') format('woff'),
-         url('./fonts/ChakraPetch-Medium.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchSemiBold';
-    src: url('./fonts/ChakraPetch-SemiBold.eot');
-    src: url('./fonts/ChakraPetch-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-SemiBold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-SemiBold.woff') format('woff'),
-         url('./fonts/ChakraPetch-SemiBold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBold';
-    src: url('./fonts/ChakraPetch-Bold.eot');
-    src: url('./fonts/ChakraPetch-Bold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Bold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Bold.woff') format('woff'),
-         url('./fonts/ChakraPetch-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchExtraBold';
-    src: url('./fonts/ChakraPetch-ExtraBold.eot');
-    src: url('./fonts/ChakraPetch-ExtraBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-ExtraBold.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-ExtraBold.woff') format('woff'),
-         url('./fonts/ChakraPetch-ExtraBold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'ChakraPetchBlack';
-    src: url('./fonts/ChakraPetch-Black.eot');
-    src: url('./fonts/ChakraPetch-Black.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/ChakraPetch-Black.woff2') format('woff2'),
-         url('./fonts/ChakraPetch-Black.woff') format('woff'),
-         url('./fonts/ChakraPetch-Black.ttf') format('truetype');
 }
 
 #block-1 {
@@ -367,21 +151,6 @@
   padding-top: 340px;
 }
 
-#block-4 {
-  height: 720px;
-  background: url("img/block04_1.png") no-repeat center;
-  color: #FFF;
-  background-color: #B5B5B5;
-}
-
-#block-4-text {
-  font-family: 'ChakraPetchThin';
-  font-size: 18pt;
-  line-height: 120%;
-  text-align: right;
-  padding-top: 380px;
-}
-
 #block-5 {
   color: #421BFF;
   background-color: #FFF;
@@ -402,15 +171,6 @@
   line-height: 100%;
   text-align: left;
   padding-top: 20px;
-}
-
-
-#block-5-text0 {
-  font-family: 'ChakraPetchThin';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
 }
 
 #block-5-text1 {
@@ -461,22 +221,6 @@
   padding-top: 80px;
 }
 
-#block-5-text7 {
-  font-family: 'ChakraPetchExtraBold';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-text8 {
-  font-family: 'ChakraPetchBlack';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
 #block-5-i {
   color: #421BFF;
   background-color: #FFF;
@@ -497,15 +241,6 @@
   line-height: 100%;
   text-align: left;
   padding-top: 20px;
-}
-
-
-#block-5-i-text0 {
-  font-family: 'ChakraPetchThinItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
 }
 
 #block-5-i-text1 {
@@ -556,22 +291,6 @@
   padding-top: 80px;
 }
 
-#block-5-i-text7 {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-i-text8 {
-  font-family: 'ChakraPetchBlackItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
 #block-6 {
   height: 720px;
   background-color: #B5B5B5;
@@ -607,30 +326,6 @@
   line-height: 150%;
   text-align: left;
   padding-top: 470px;
-}
-
-#block-7-3 {
-  background: url("img/block07_3.jpg") no-repeat center;
-  background-size: cover;
-  height: 720px;
-  color: #FFF;
-  background-color: #B5B5B5;
-}
-
-#block-7-3-text1 {
-  font-family: 'ChakraPetchThinItalic';
-  font-size: 13pt;
-  line-height: 150%;
-  text-align: left;
-  padding-top: 500px;
-}
-
-#block-7-3-text2 {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  font-size: 13pt;
-  line-height: 150%;
-  text-align: left;
-  padding-top: 500px;
 }
 
 #block-Title {
@@ -689,77 +384,6 @@ ul.nav > li.active > a {
   letter-spacing: 0px;
 }
 
-#block-9-Char {
-  font-family: 'ChakraPetchThin';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-Num {
-  font-family: 'ChakraPetchThin';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-Vowel {
-  font-family: 'ChakraPetchThin';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Sp-Char {
-  font-family: 'ChakraPetchThin';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Symbol {
-  font-family: 'ChakraPetchThin';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Ac-Char {
-  font-family: 'ChakraPetchThin';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Text1 {
-  font-family: 'ChakraPetchThin';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-9-Text2 {
-  font-family: 'ChakraPetchThin';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-9-Text3 {
-  font-family: 'ChakraPetchThin';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-9-i {
   color: #421BFF;
   background-color: #FFF;
@@ -773,77 +397,6 @@ ul.nav > li.active > a {
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
-}
-
-#block-9-i-Char {
-  font-family: 'ChakraPetchThinItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Num {
-  font-family: 'ChakraPetchThinItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Vowel {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Sp-Char {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Symbol {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Ac-Char {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Text1 {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-9-i-Text2 {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-9-i-Text3 {
-  font-family: 'ChakraPetchThinItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
 }
 
 #block-10 {
@@ -1894,77 +1447,6 @@ ul.nav > li.active > a {
   letter-spacing: 0px;
 }
 
-#block-16-Char {
-  font-family: 'ChakraPetchExtraBold';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-Num {
-  font-family: 'ChakraPetchExtraBold';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-Vowel {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Sp-Char {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Symbol {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Ac-Char {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Text1 {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-16-Text2 {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-16-Text3 {
-  font-family: 'ChakraPetchExtraBold';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-16-i {
   color: #421BFF;
   background-color: #FFF;
@@ -1978,77 +1460,6 @@ ul.nav > li.active > a {
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
-}
-
-#block-16-i-Char {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Num {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Vowel {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Sp-Char {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Symbol {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Ac-Char {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Text1 {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-16-i-Text2 {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-16-i-Text3 {
-  font-family: 'ChakraPetchExtraBoldItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
 }
 
 #block-17 {
@@ -2066,77 +1477,6 @@ ul.nav > li.active > a {
   letter-spacing: 0px;
 }
 
-#block-17-Char {
-  font-family: 'ChakraPetchBlack';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-Num {
-  font-family: 'ChakraPetchBlack';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-Vowel {
-  font-family: 'ChakraPetchBlack';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Sp-Char {
-  font-family: 'ChakraPetchBlack';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Symbol {
-  font-family: 'ChakraPetchBlack';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Ac-Char {
-  font-family: 'ChakraPetchBlack';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Text1 {
-  font-family: 'ChakraPetchBlack';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-17-Text2 {
-  font-family: 'ChakraPetchBlack';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-17-Text3 {
-  font-family: 'ChakraPetchBlack';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-17-i {
   color: #421BFF;
   background-color: #FFF;
@@ -2150,77 +1490,6 @@ ul.nav > li.active > a {
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
-}
-
-#block-17-i-Char {
-  font-family: 'ChakraPetchBlackItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Num {
-  font-family: 'ChakraPetchBlackItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Vowel {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Sp-Char {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Symbol {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Ac-Char {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Text1 {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-17-i-Text2 {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-17-i-Text3 {
-  font-family: 'ChakraPetchBlackItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
 }
 
 #Line1 {
