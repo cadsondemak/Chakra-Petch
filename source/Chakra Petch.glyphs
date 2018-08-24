@@ -1,5 +1,8 @@
 {
 .appVersion = "1161";
+DisplayStrings = (
+"Ä"
+);
 copyright = "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)";
 customParameters = (
 {
@@ -212,15 +215,15 @@ custom = Extralight;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -236,15 +239,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -273,15 +276,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -297,15 +300,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -329,15 +332,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -353,15 +356,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -391,15 +394,15 @@ custom = "Extralight Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -415,15 +418,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -454,15 +457,15 @@ custom = "Regular Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -478,15 +481,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -512,15 +515,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 992;
 },
 {
 name = typoDescender;
-value = -250;
+value = -308;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
@@ -536,15 +539,15 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -308;
 },
 {
 name = hheaLineGap;
-value = 200;
+value = 0;
 }
 );
 descender = -250;
@@ -3292,24 +3295,6 @@ layerId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
 width = 589;
 },
 {
-associatedMasterId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
-layerId = "8AF6BA7E-4672-4BE4-A9AE-4DB948958C2C";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
-layerId = "42E62B01-6013-45B2-A65C-A560E06011F7";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
-layerId = "AC9A68F9-8332-465A-81AB-CD75F8CE00C8";
-name = "new Layer";
-width = 600;
-},
-{
 components = (
 {
 name = A;
@@ -3321,24 +3306,6 @@ transform = "{1, 0, 0, 1, 323, 202}";
 );
 layerId = "D6105F7E-CAE1-4F7B-A52E-8AA6E6082DF8";
 width = 646;
-},
-{
-associatedMasterId = "D6105F7E-CAE1-4F7B-A52E-8AA6E6082DF8";
-layerId = "F0BA9CC0-EECE-4D27-B25F-0185D3AB89AF";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "D6105F7E-CAE1-4F7B-A52E-8AA6E6082DF8";
-layerId = "41E61B0A-176A-4E54-833C-40D61A6C9F98";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "D6105F7E-CAE1-4F7B-A52E-8AA6E6082DF8";
-layerId = "CCD95D23-479E-404A-B12D-0DCA3D908BC3";
-name = "new Layer";
-width = 600;
 },
 {
 components = (
@@ -3367,24 +3334,6 @@ layerId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
 width = 646;
 },
 {
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "600CBDB9-ABA4-42C8-9ABB-91440B3BD583";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "408455A7-C741-4893-8276-4E55FE3BC07F";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "4BE3C3AF-AAF6-4D0C-B3CD-7ED50F693A1C";
-name = "new Layer";
-width = 600;
-},
-{
 components = (
 {
 name = A;
@@ -3409,24 +3358,6 @@ transform = "{1, 0, 0, 1, 329, 202}";
 );
 layerId = "7E1D32E5-5329-438C-9451-496B813F8F3E";
 width = 589;
-},
-{
-associatedMasterId = "7E1D32E5-5329-438C-9451-496B813F8F3E";
-layerId = "0BAD88F8-BE71-404F-9BD9-3F1A421DC83A";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "7E1D32E5-5329-438C-9451-496B813F8F3E";
-layerId = "C8A623A5-1741-4316-9C41-EB9BA2A58D08";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "7E1D32E5-5329-438C-9451-496B813F8F3E";
-layerId = "B3E83344-A8C3-411D-82AA-CCEDE4734CE2";
-name = "new Layer";
-width = 600;
 }
 );
 leftKerningGroup = A;
@@ -3940,12 +3871,6 @@ name = "new Layer";
 width = 600;
 },
 {
-associatedMasterId = "39D11A97-A6D9-4B52-A6F5-15D5E4373676";
-layerId = "90EEAB3D-2D49-4419-9699-548F6D89DF0E";
-name = "new Layer";
-width = 600;
-},
-{
 components = (
 {
 name = A;
@@ -4001,24 +3926,6 @@ transform = "{1, 0, 0, 1, 355, 202}";
 );
 layerId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
 width = 646;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "7476F33C-7A92-479D-8FD4-BF1CE51F6528";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "E1A931DE-9F4F-4216-8680-C3B2B3EFDD42";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "2C62E184-52B9-442D-BCD0-E18909C06F73";
-name = "new Layer";
-width = 600;
 },
 {
 components = (
@@ -12181,24 +12088,6 @@ transform = "{1, 0, 0, 1, 370, 202}";
 );
 layerId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
 width = 676;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "433EEA59-D409-4E94-B949-B947C49B3375";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "8479A1D2-A10A-4FD4-B183-27A0DC45B7D6";
-name = "new Layer";
-width = 600;
-},
-{
-associatedMasterId = "1C004500-E2C5-4CA7-8B0E-089ECD41D52B";
-layerId = "B74B6659-2110-4C18-B339-E1C99DE718A4";
-name = "new Layer";
-width = 600;
 },
 {
 components = (
